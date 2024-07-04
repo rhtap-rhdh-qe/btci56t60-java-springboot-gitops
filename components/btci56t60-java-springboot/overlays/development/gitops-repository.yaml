@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: btci56t60-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/btci56t60-java-springboot-gitops
